@@ -1,0 +1,65 @@
+[
+    {
+        "key": "1",
+        "picture": "https://www.ohmyparenting.com/wp-content/uploads/2015/06/girl-doing-chores2.jpg",
+        "price": 272,
+        "name": "Cooking Lesson",
+        "description": "Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim. Sed quis rutrum tellus, sit amet viverra felis. Cras sagittis."
+    },
+    {
+        "key": "2",
+        "picture": "https://maffinimethod.com/wp-content/uploads/2017/10/play.jpg",
+        "price": 259,
+        "name": "Drawing Course",
+        "description": "The Purpose of Brainobrain Programme is to help children to achieve whole brain development i.e., to be able to use both sides of their brain."
+    },
+    {
+        "key": "3",
+        "picture": "https://www.lakespd.com/wp-content/uploads/2017/04/How-to-Keep-Your-Childs-Toothbrush-Clean.jpg",
+        "price": 382,
+        "name": "Group Sport",
+        "description": "Usually we all are either left brain dominated or right brain dominated. We mostly use only one side of the brain. Studies around the world."
+    },
+    {
+        "key": "4",
+        "picture": "https://news.wisc.edu/content/uploads/2016/11/Children-playing-iStock-copyright-skynesher.jpg",
+        "price": 396,
+        "name": "Orienteering",
+        "description": " in brain development shows that any individual who are able to use both sides of their brain will be able to tap their resources to the maximum."
+    },
+    {
+        "key": "5",
+        "picture": "https://autismawarenesscentre.com/wp-content/uploads/bigstock-Kids-Playing-Block-Toys-In-Pla-350958596-800x534.jpg",
+        "price": 209,
+        "name": "Outdoor Activity",
+        "description": " potential and hence will remain intelligent for life. They will be successful and highly competent in all spheres of life. It is a valuable gift."
+    },
+    {
+        "key": "6",
+        "picture": "https://www.bubhub.com.au/hubbub-blog/wp-content/uploads/2016/10/toddler-eating-spoon.jpg",
+        "price": 270,
+        "name": "Swimming Course",
+        "description": " that, as parents, we can offer to our children! You can be one among thousands of proud parents Brainobrain trains children to use both sides."
+    },
+    {
+        "key": "7",
+        "picture": "https://cdn.24.co.za/files/Cms/General/d/6120/1b2f79712f9948b19f0f14b08aa8e79c.jpg",
+        "price": 350,
+        "name": "Watercolor Art",
+        "description": " of their brain by offering exercises to sharpen both their logical and creative brains simultaneously. It is important to be observant."
+    },
+    {
+        "key": "8",
+        "picture": "https://www.primroseschools.com/blog/wp-content/uploads/2017/08/Skills-Your-Child-Needs-to-Succeed_Children-Playing-Together_Blog-Feature-1020x536.png",
+        "price": 235,
+        "name": "Basic English Grammar And Structures",
+        "description": "parents, so that you may notice your child’s development to support them accordingly! You could see them acquire valuable skill sets outdoing."
+    },
+    {
+        "key": "9",
+        "picture": "https://images.theconversation.com/files/176868/original/file-20170705-18101-wkxzxl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "price": 284,
+        "name": "English Grammar Pro | Beginner to Advanced (A1-C1) Grammar",
+        "description": " becoming toppers at school as well as moving ahead in all round development!.child’s development to support them accordingly! You could."
+    }
+]
